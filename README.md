@@ -10,11 +10,13 @@ The script can be turned into an exe capable of running under Windows with no pr
 
 ## Screenshots
 ![Variants window](https://raw.githubusercontent.com/petru-dimitriu/elsh/master/screen1.png)
+<br>
 Whenever user chooses a wrong answer, it dissapears and the window turns red.
+<Br>
 ![Variants window turns red when user gets answer wrong.](https://raw.githubusercontent.com/petru-dimitriu/elsh/master/screen2.png)
 
 ## Limitations
-* Sometimes answer is ridiculously obvious.
+* Sometimes the answer is ridiculously obvious.
 * No companion app to create or edit pair files.
 
 ## License
