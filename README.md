@@ -1,5 +1,5 @@
 # English-Language Study Helper
-A simple application written in AutoHotkey designed to help those who study idioms, phrasal verbs, words, to rehearse by matching words, etc with their explanations or the gapped phrase which best suits them, from a small list.
+A simple application written in AutoHotkey designed to help those who study idioms, phrasal verbs, words, to rehearse by matching words, etc with their explanations or the gapped phrase which best suits them, from a small list. In fact, an app that asks users to match any kind of strings which fit according to some criterion.
 ## Overview
 Quite straightforward to use. Files with the pairs to match are kept in the `files` subdirectory. Each file contains pairs of matching items in the form `first!second`.
 <br> I have provided some exercise files for immediate use.
